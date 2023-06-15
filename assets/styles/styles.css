@@ -9,11 +9,6 @@
   font-weight: bold;
 }
 
-table {
-  border: 1px solid black;
-  padding: 10px;
-}
-
 td,
 th {
   border: 1px solid #ddd;
@@ -53,5 +48,5 @@ th {
 }
 
 .btn1 {
-  background-color: #07f;
+  background-color: rgb(252, 50, 50);
 }
